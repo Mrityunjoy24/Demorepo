@@ -11,3 +11,4 @@
    git rm -r --cached app.js
    git commit -m "removed"
    git push
+11. git reset HEAD ~
