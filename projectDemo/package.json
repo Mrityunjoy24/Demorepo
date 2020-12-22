@@ -1,0 +1,24 @@
+{
+  "name": "projectdemo",
+  "version": "1.0.0",
+  "description": "js server demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "name",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.13.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
