@@ -1,0 +1,4 @@
+Distributed version control system (DVCS) - Git
+Create a Distributed version control system, and put files into it.
+Replicate a DVCS on your local machine, make changes to its files, and then put them back into it.
+List down all the files which have changed in the last commit. List only the file names.
