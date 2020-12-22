@@ -1,5 +1,3 @@
-
-
 exports.usefirestore = async (req, res) => {
   var admin = require("firebase-admin");
 
