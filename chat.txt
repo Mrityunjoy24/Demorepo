@@ -1,1 +1,5 @@
-From direct messages to group conversations, Google Chat helps teams and businesses collaborate fluidly and efficiently from anywhere. Securely connect with anyone you work with, and take group work to the next level with shared chat, files and tasks. This extra part is added in Main Branch.
+<<<<<<< HEAD
+From direct messages to group conversations, Google Chat helps teams and businesses collaborate fluidly and efficiently from anywhere. Securely connect with anyone you work with, and take group work to the next level with shared chat, files and tasks. Hi conflict removed.
+=======
+From direct messages to group conversations, Google Chat helps teams and businesses collaborate fluidly and efficiently from anywhere. Securely connect with anyone you work with, and take group work to the next level with shared chat, files and tasks. Hi conflict removed.
+>>>>>>> mrityu_dev
