@@ -12,3 +12,4 @@
    git commit -m "removed"
    git push
 11. git reset HEAD ~
+hello .
