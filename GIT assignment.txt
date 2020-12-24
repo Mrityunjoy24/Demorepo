@@ -1,0 +1,18 @@
+1. Creating Repo in github
+
+2. git init, git remote add origin <repo link>, git pull origin master . git pull, git status,git add, git commit,git log,git push,git reflog
+
+3. git diff --name-only HEAD HEAD~1 or git log -1 --stat --oneline
+
+4. remove file from repo but not locally
+   git rm -r --cached app.js
+   git commit -m "removed"
+   git push
+
+5. git reset HEAD ~
+
+6. git checkout master, change test2.txt, git add ., git commit ,git checkout test, change test2.txt, git add . , git commit , git checkout master, git merge test, 
+   remove conflict ,git add. git commit
+
+7. git cherry-pick <commit hash>
+
